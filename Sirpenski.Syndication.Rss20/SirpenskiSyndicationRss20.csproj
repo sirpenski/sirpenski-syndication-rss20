@@ -13,17 +13,18 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>Sirpenski.Syndication.Rss20</PackageId>
     <Description>A Rss 2.0 compliant XML feed parser and generator.</Description>
-    <PackageTags>rss, feed, xml, channel</PackageTags>
+    <PackageTags>RSS, Syndication, XML, Feed, Read, Write</PackageTags>
     <AssemblyName>Sirpenski.Syndication.Rss20</AssemblyName>
     <PackageLicenseUrl></PackageLicenseUrl>
     <Copyright>Copyright 2019.  Paul F. Sirpenski</Copyright>
     <AssemblyVersion>1.0.2.0</AssemblyVersion>
     <FileVersion>1.0.2.0</FileVersion>
-    <PackageProjectUrl>http://github.com/sirpenski/sirpensk-syndication-rss20</PackageProjectUrl>
-    <PackageIconUrl>http://github.com/sirpenski/sirpenski-syndication-rss20/img/package-icon.png</PackageIconUrl>
+    <PackageProjectUrl>http://sirpenski.com/sirpenski-syndication-rss20</PackageProjectUrl>
+    <PackageIconUrl>http://github.com/sirpenski/sirpenski-syndication-rss20/Resources/package-icon.png</PackageIconUrl>
     <PackageReleaseNotes>Minor Bug Fixes</PackageReleaseNotes>
-    <RepositoryType>Nuget</RepositoryType>
-    <RepositoryUrl>http://huget.com/url</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <RepositoryUrl>http://github.com/sirpenski/sirpenski-syndication-rss20</RepositoryUrl>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
