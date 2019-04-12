@@ -32,7 +32,7 @@ using System.Diagnostics;
 namespace Sirpenski.Syndication.Rss20
 {
     [Serializable]
-    internal static class RSS
+    public static class RSS
     {
         public const string GENERATOR = "Sirpenski RSS Feed Generator (sirpenski.com)";
 
