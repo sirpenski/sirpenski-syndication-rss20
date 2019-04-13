@@ -4,9 +4,9 @@ This library is a RSS 2.0 compliant feed generator and parser.
 
 <H3>Documentation URL</H3>
 
-https://sirpenski.com/sirpenski-syndication-rss20
-
-Documentation Has Not Been Started
+<a href="https://sirpenski.com/sirpenski-syndication-rss20" target="_blank">https://sirpenski.com/sirpenski-syndication-rss20</a>
+<br>
+* Note: Documentation Has Not Been Started
 <br><br>
 <H3>Nuget Package Manager Installation</H3>
 
